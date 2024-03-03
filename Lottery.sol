@@ -13,7 +13,7 @@ address payable public winner;
 
 
 constructor (){
-    manager = msg.sender;
+    manager= msg.sender;
 }
 
 //fucntion to participage in the lottery
